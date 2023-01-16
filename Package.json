@@ -1,0 +1,14 @@
+{
+    "name": "com.Jan.shaderReference",
+    "version": "1.0.0",
+    "displayName": "Shader参考大全",
+    "description": "ShaderLab语法编写参考,支持BuildIn和URP管线.",
+    "unity": "2019.1",
+   "keywords": [
+      "Shader"
+    ],
+    "author": {
+      "name": "Jan",
+      "email": "651167638@qq.com"
+    }
+  }

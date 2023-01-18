@@ -1,5 +1,5 @@
 {
-    "name": "com.Jan.shaderReference",
+    "name": "com.jan.shaderReference",
     "version": "1.0.0",
     "displayName": "Shader参考大全",
     "description": "ShaderLab语法编写参考,支持BuildIn和URP管线.",
